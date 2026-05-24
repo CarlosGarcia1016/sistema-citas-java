@@ -11,7 +11,7 @@ Para ejecutar este proyecto es necesario tener instalado:
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/CarlosGarcia1016/sistema-citas-java
 ```
 
 ---
